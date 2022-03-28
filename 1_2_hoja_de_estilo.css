@@ -1,0 +1,100 @@
+.fondo{
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: rgb(14, 13, 13);
+    color:rgb(204, 202, 199);
+    display: flex;
+    flex-direction: row;
+}
+
+
+.navbar{
+    margin-top: 2%;
+    width: 20%;
+}
+
+a{
+    display: flex;
+    flex-direction: column;
+    color: rgb(218, 212, 212);
+    text-decoration: none;
+}
+
+a:hover{
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: justify;
+}
+
+
+.cuerpo{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    float:right;
+    width:80%;
+}
+
+.cajanegra{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    background-color: rgb(16, 17, 17);
+    height: 8%;
+}
+
+.caja1{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    background-color: rgb(55, 182, 204);
+    height: 23%;
+}
+
+.caja2{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    background-color: rgb(206, 203, 17);
+    height: 23%;
+}
+
+.caja3{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    background-color: rgb(252, 137, 6);
+    height: 23%;
+}
+
+.caja4{
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    padding-left: 10%;
+    background-color: rgb(252, 6, 6);
+    height: 23%;
+}
+
+img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+
+
+
